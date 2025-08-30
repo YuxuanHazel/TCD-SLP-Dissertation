@@ -1,0 +1,1441 @@
+﻿col_0,col_1,col_2,col_3,col_4,col_5,col_6,cometkiwi_original,cometkiwi_revised,cometkiwi_improvement
+"True, there was a time when I should have been scared to come, because people always told me what a holy terror you were and how dangerous it was to cross you; but now I know that in reality you are all gentleness and fun, there is nothing that could stop me coming.","too long, too many pronouns",Split long sentences once. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""True, there was a time when I should have been scared to come, because people always told me what a holy terror you were and how dangerous it was to cross you; but now I know that in reality you are all gentleness and fun, there is nothing that could stop me coming.""
+Suggested fixes: Split long sentences once. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999268,只因素日闻得人说，嫂子是个利害人，在你跟前一点也错不得，所以唬住我了。 我如今见嫂子是个有说有笑极疼人的，我怎么不来?,"True, there was a time when I should have been scared to come, because people always told me you were a holy terror and dangerous to cross. But now I know you're all gentleness and fun, and there's nothing that could stop me from visiting you.",0.4661072790622711,0.4845483601093292,0.018441081047058105
+"After conducting an observation for a while in Qingping market, she drew the conclusion that if she wanted to disguise herself like someone, she would rather be an Ahcang woman.","too passive, words too long",Prefer active if natural. Prefer simpler common words.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""After conducting an observation for a while in Qingping market, she drew the conclusion that if she wanted to disguise herself like someone, she would rather be an Ahcang woman.""
+Suggested fixes: Prefer active if natural. Prefer simpler common words.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,在清平集上观摩了一阵，她得到了要扮就扮阿伧的结论。,"After observing Qingping market for a while, she drew the conclusion that if she wanted to disguise herself as someone else, she would rather be an Ahcang woman.",0.6518031358718872,0.65675288438797,0.004949748516082764
+"He told me that the great thing about the job was that you could read other people's confessions, which I believe included mine.","too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""He told me that the great thing about the job was that you could read other people's confessions, which I believe included mine.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,他说当人事干部最大的好处就是可以看到别人写的交待材料。 我想他说的包括了我写的交待材料。,"He told me that the great thing about the job was being able to read other people's confessions, which I believe included mine.",0.7951850891113281,0.8009073734283447,0.0057222843170166016
+"As Chen Qingyang sat in my thatched shack and poured out her troubles, she had on a white smock that left her arms and legs exposed, the same outfit she had worn earlier in her clinic.","too passive, too much nominalization",Prefer active if natural. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""As Chen Qingyang sat in my thatched shack and poured out her troubles, she had on a white smock that left her arms and legs exposed, the same outfit she had worn earlier in her clinic.""
+Suggested fixes: Prefer active if natural. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,陈清扬在我的草房里时，裸臂赤腿穿一件白大褂，和她在山上那间医务室里装束一样。,"Chen Qingyang sat in my hut and poured out her troubles, wearing the same white smock she had worn earlier in her clinic, her arms and legs exposed.",0.6803284883499146,0.6465145349502563,-0.0338139533996582
+"The four of them depended on agriculture for their living, and since, with Gou-er himself busy most of the day on the land and his wife busy about the farm drawing water, pounding grain, and the like, there was no one to look after Qing-er and her little brother, Gou-er invited his mother-in-law, old Grannie Liu, to come and live with them.","too passive, too many subordinate clauses",Prefer active if natural. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The four of them depended on agriculture for their living, and since, with Gou-er himself busy most of the day on the land and his wife busy about the farm drawing water, pounding grain, and the like, there was no one to look after Qing-er and her little brother, Gou-er invited his mother-in-law, old Grannie Liu, to come and live with them.""
+Suggested fixes: Prefer active if natural. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,一家四口，以务农为业。 因狗儿白日间自作些生计，刘氏又操井臼等事，青板姊弟两个无人照管，狗儿遂将岳母刘老老接来，一处过活。,"Four of them relied on agriculture for their livelihood, and with Gou-er often busy on the land and his wife occupied with farm chores like drawing water and pounding grain, there was no one to care for Qing-er and her little brother. Gou-er's mother-in-law, Old Grannie Liu, was invited to live with them to help with their care.",0.6057564616203308,0.5931007862091064,-0.012655675411224365
+"His visit could be accounted for in two ways: one was that he came down to our team for the investigation, but when he met someone like me who played dumb with him, he got pissed off and decided to stay; the other was that he came down to our team not for investigation, but to pick on me, after hearing that Chen Qingyang and I had a love affair.","too passive, too much nominalization",Prefer active if natural. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""His visit could be accounted for in two ways: one was that he came down to our team for the investigation, but when he met someone like me who played dumb with him, he got pissed off and decided to stay; the other was that he came down to our team not for investigation, but to pick on me, after hearing that Chen Qingyang and I had a love affair.""
+Suggested fixes: Prefer active if natural. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,这件事有两种可能的原因，一是他下来视察，遇见了我对他装聋作哑，因而大怒，不走了。 二是他不是下来视察，而是听说陈清扬和我有了一腿，特地来找我的麻烦。,"His visit could be accounted for in two ways: one, he came down to our team for the investigation, but when he met someone like me, who played dumb with him, he got annoyed and decided to stay; or two, he came down to our team not for investigation, but to pick on me, after hearing that Chen Qingyang and I had a romantic involvement.",0.6969336271286011,0.6834374070167542,-0.013496220111846924
+"Father watched them tumble in the moonlight, so slowly he could have reached out and caught them.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Father watched them tumble in the moonlight, so slowly he could have reached out and caught them.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999106033,父亲看到弹头在月光中翻着筋斗飞行，缓慢得伸手就可抓住。,"Father watched them tumble in the moonlight, so slowly he could have reached out and caught them himself.",0.684487521648407,0.7113621234893799,0.0268746018409729
+I was too tall to be a Thai.,"too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""I was too tall to be a Thai.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.99998712,我的个子太高，装不矮。,I was too tall to be a Thai.,0.42955753207206726,0.42955753207206726,0.0
+But the Little Countess closed her eyes even tighter.,"deeply nested syntax, repetition",Flatten nested clauses. Remove needless repetition.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""But the Little Countess closed her eyes even tighter.""
+Suggested fixes: Flatten nested clauses. Remove needless repetition.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999951249,小郡主双眼闭得更紧。,The Little Countess squeezed her eyes shut even tighter.,0.8017088174819946,0.8122484087944031,0.010539591312408447
+After that she didn't have deep relationships with other people.,"too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""After that she didn't have deep relationships with other people.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999912,以后她就没和任何人有过交情。,"After that, she didn't develop deep connections with others.",0.7593762874603271,0.7839407920837402,0.024564504623413086
+"Old Geng had walked out of the village as the roosters were crowing for the third time and gone straight to a low embankment alongside the swamp in front of the village, where he waited for the chicken thief to show up.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Old Geng had walked out of the village as the roosters were crowing for the third time and gone straight to a low embankment alongside the swamp in front of the village, where he waited for the chicken thief to show up.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,老耿在鸡叫三遍时出了村，埋伏在村前洼地边沿一道低矮的土堰后，等待着它偷鸡归来。,"Old Geng had walked out of the village as the roosters were crowing for the third time and went straight to the low embankment alongside the swamp in front of the village, where he waited for the chicken thief to show up.",0.7240393161773682,0.7169947028160095,-0.007044613361358643
+"However, with no shade over the light bulb, the objects in the room simply looked naked rather than illuminated.","too many cohesive markers, too many pronouns",Keep only necessary markers. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""However, with no shade over the light bulb, the objects in the room simply looked naked rather than illuminated.""
+Suggested fixes: Keep only necessary markers. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,那电灯没有章子，光便满房间的，不是明亮，而是样样东西都扒了皮，裸着了。,"However, with no shade over the light bulb, objects in the room appeared naked rather than illuminated.",0.5942472219467163,0.5732778310775757,-0.020969390869140625
+She left the room and walked out of the gate of Green Delights and in the direction of Bao-chai's courtyard.,"too passive, too much nominalization",Prefer active if natural. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""She left the room and walked out of the gate of Green Delights and in the direction of Bao-chai's courtyard.""
+Suggested fixes: Prefer active if natural. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,说着自己便出房来。 出了怡红院，一径往宝钗院内来。,"She left the room and walked out of the gate of Green Delights, heading towards Bao-chai's courtyard.",0.6099330186843872,0.635368824005127,0.025435805320739746
+"So, they said my confessions were unconvincing.","too many cohesive markers, too much nominalization",Keep only necessary markers. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""So, they said my confessions were unconvincing.""
+Suggested fixes: Keep only necessary markers. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999993,所以人家说，这样的交待材料不可信。,They found my confessions unconvincing.,0.8313049077987671,0.7915481328964233,-0.03975677490234375
+"After seeing Yu-cun off, Shi-yin went to bed and slept without a break until the sun was high in the sky next morning.","too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""After seeing Yu-cun off, Shi-yin went to bed and slept without a break until the sun was high in the sky next morning.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,士隐送雨村去后，回房一觉，直至红日三竿方醒。,"After seeing Yu-cun off, Shi-yin slept without a break until the sun was high in the sky the next morning.",0.6602098941802979,0.621829628944397,-0.03838026523590088
+She said she couldn't tell me right then.,"deeply nested syntax, too long",Flatten nested clauses. Split long sentences once.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""She said she couldn't tell me right then.""
+Suggested fixes: Flatten nested clauses. Split long sentences once.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999978,她说，现在不能告诉我。,She couldn't tell me right then.,0.8512366414070129,0.8436235189437866,-0.007613122463226318
+"At the gate to Wasp Waist Bridge Crimson ran into Trinket again, this time with Jia Yun in tow.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""At the gate to Wasp Waist Bridge Crimson ran into Trinket again, this time with Jia Yun in tow.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,这里小红刚走至蜂腰桥门前，只见那边坠儿引着贾芸来了。,"Crimson ran into Trinket again at the gate of Wasp Waist Bridge, this time with Jia Yun in tow.",0.4168967306613922,0.41999974846839905,0.003103017807006836
+"When Chen Qingyang would come down from the mountain with firewood on her back, she would pull up her clothes, revealing her full and firm breasts, and, without making any distinction, feed one of the babies.","too passive, low lexical variety",Prefer active if natural. Vary wording slightly.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""When Chen Qingyang would come down from the mountain with firewood on her back, she would pull up her clothes, revealing her full and firm breasts, and, without making any distinction, feed one of the babies.""
+Suggested fixes: Prefer active if natural. Vary wording slightly.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,陈清扬从山上背柴回来，撩起衣裳，露出极壮硕的乳房，不分青红皂白，就给其中一个喂奶。,"When Chen Qingyang descended from the mountain with firewood on her back, she would adjust her clothing to reveal her full and firm breasts, and without hesitation, feed one of the babies.",0.7147383689880371,0.7125524282455444,-0.0021859407424926758
+"And since Trinket was unwilling to admit defeat, there was nothing for it but to begin moving the point around on her cheek.","too many cohesive markers, too many connectives",Keep only necessary markers. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""And since Trinket was unwilling to admit defeat, there was nothing for it but to begin moving the point around on her cheek.""
+Suggested fixes: Keep only necessary markers. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,韦小宝无可奈何，不肯认输，便将剪尖在她脸上轻轻划来划去。,Trinket's unwillingness to admit defeat meant that moving the point around on her cheek was the only option.,0.42335399985313416,0.46963462233543396,0.046280622482299805
+"She awakened right then, raised her head, and asked what I was doing there.","too many pronouns, deeply nested syntax",Reduce pronoun overuse. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""She awakened right then, raised her head, and asked what I was doing there.""
+Suggested fixes: Reduce pronoun overuse. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999997,她就在那一刻醒来，抬头问我干什么。,"She immediately awoke, raised her head, and asked, ""What are you doing here?""",0.819793164730072,0.8391570448875427,0.019363880157470703
+"Xi-feng nodded, and Grannie Liu sat herself down on the edge of the kang.","too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Xi-feng nodded, and Grannie Liu sat herself down on the edge of the kang.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999991,凤姐点头，刘老老已在炕沿上坐下了。,"Xi-feng nodded, and Grannie Liu sat herself down on the edge of the kang.",0.6074562072753906,0.6074560880661011,-1.1920928955078125e-07
+"To make matters worse, I'd borrowed an air rifle from Luo Xiaosi not long before the incident, and using a bowl of mung beans as bullets, killed a couple of pounds of mice in an empty granary.","too passive, repetition",Prefer active if natural. Remove needless repetition.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""To make matters worse, I'd borrowed an air rifle from Luo Xiaosi not long before the incident, and using a bowl of mung beans as bullets, killed a couple of pounds of mice in an empty granary.""
+Suggested fixes: Prefer active if natural. Remove needless repetition.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,在此之前不久，我还借了罗小四的汽枪，用一碗绿豆做子弹，在空粮库里打下了二斤耗子。,"To make matters worse, I had borrowed an air rifle from Luo Xiaosi just before the incident, and using a bowl of mung beans as bullets, I had killed a couple of pounds of mice in an empty granary.",0.754469096660614,0.7638605833053589,0.009391486644744873
+All the mystery and grandeur of the film studio hung suspended in the light shimmering outside her veil.,"too passive, punctuation heavy",Prefer active if natural. Simplify heavy punctuation.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""All the mystery and grandeur of the film studio hung suspended in the light shimmering outside her veil.""
+Suggested fixes: Prefer active if natural. Simplify heavy punctuation.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999984236,片厂里的神奇在光里聚集和等候着。,"All the mystery and grandeur of the film studio hovered suspended outside her veil, shimmering in the light.",0.605623185634613,0.6245338916778564,0.018910706043243408
+"After her husband's death, Shao had soon recovered from her mental breakdown and found ways to survive in the tiny cracks of politics.","too passive, overly dense",Prefer active if natural. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""After her husband's death, Shao had soon recovered from her mental breakdown and found ways to survive in the tiny cracks of politics.""
+Suggested fixes: Prefer active if natural. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,丈夫惨死后，绍琳很快从精神错乱中恢复过来，继续在政治夹缝中求生存。,Shao had soon recovered from her mental breakdown and found ways to survive in the political landscape after her husband's death.,0.7594783306121826,0.7893462181091309,0.029867887496948242
+"Bathed in the moonlight, Mr. Cheng had the sensation that he was lying in water.","too passive, too much nominalization",Prefer active if natural. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Bathed in the moonlight, Mr. Cheng had the sensation that he was lying in water.""
+Suggested fixes: Prefer active if natural. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,程先生觉着自己像躺在水里似的。,"Lying in the moonlight, Mr. Cheng felt as if he were bathed in water.",0.6388415098190308,0.7467846274375916,0.10794311761856079
+On the other hand you're still young and comparatively unformed; and so far you don't seem to have done anything particularly bad.,"too many connectives, punctuation heavy",Cut redundant connectives. Simplify heavy punctuation.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""On the other hand you're still young and comparatively unformed; and so far you don't seem to have done anything particularly bad.""
+Suggested fixes: Cut redundant connectives. Simplify heavy punctuation.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999936932,你年纪还小，性子浮动些，也没做了什么坏事。,"On the other hand, you're still young and relatively untested; and so far, you haven't done anything particularly egregious.",0.662611722946167,0.736103892326355,0.07349216938018799
+"He said the stench of rotten flesh drifted beyond the Shan compound, which swarmed with horseflies. . . .","too many cohesive markers, too long",Keep only necessary markers. Split long sentences once.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""He said the stench of rotten flesh drifted beyond the Shan compound, which swarmed with horseflies. . . .""
+Suggested fixes: Keep only necessary markers. Split long sentences once.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.991266686,他们说站在单家院子外，就能闻到一股烂肉臭味，单家的院子里，飞舞着成群结队的绿头苍蝇……,"The stench of rotten flesh wafted beyond the Shan compound, where horseflies swarmed.",0.5826906561851501,0.5917062759399414,0.00901561975479126
+This was the first time that Mr. Cheng had met the evening's guests.,"too many cohesive markers, too much nominalization",Keep only necessary markers. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""This was the first time that Mr. Cheng had met the evening's guests.""
+Suggested fixes: Keep only necessary markers. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.998850172,程先生同这两位全是初次见面。,Mr. Cheng met the evening's guests for the first time.,0.6705825328826904,0.7041177749633789,0.03353524208068848
+"Succumbing to the oppressiveness in the carriage, Grandma eased one of her bamboo-shoot toes under the curtain and lifted it a crack to sneak a look outside.","too long, low lexical variety",Split long sentences once. Vary wording slightly.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Succumbing to the oppressiveness in the carriage, Grandma eased one of her bamboo-shoot toes under the curtain and lifted it a crack to sneak a look outside.""
+Suggested fixes: Split long sentences once. Vary wording slightly.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999990939,奶奶受闷不过，悄悄地伸出笋尖状的脚，把轿帘顶开一条缝。 偷偷地往外看。,"Easing one bamboo-shoot toe under the curtain, Grandma peeked outside, feeling the oppressive carriage atmosphere.",0.5730942487716675,0.5010812878608704,-0.07201296091079712
+"The first impression Ye had was that, though the three had once seemed to be carved out of the same mold, they now looked very different from each other.","too passive, deeply nested syntax",Prefer active if natural. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The first impression Ye had was that, though the three had once seemed to be carved out of the same mold, they now looked very different from each other.""
+Suggested fixes: Prefer active if natural. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999996,叶文洁的第一印象就是，与当年的整齐划一相比，她们之间的差异变大了。,"The first impression Ye had was that though the three had once seemed to be cut from the same mold, they now appeared vastly different from one another.",0.661339521408081,0.6750047206878662,0.013665199279785156
+The last couple of bullets from Granddad's pistol had travelled only thirty paces or so before thudding to the ground.,"too many cohesive markers, punctuation heavy",Keep only necessary markers. Simplify heavy punctuation.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The last couple of bullets from Granddad's pistol had travelled only thirty paces or so before thudding to the ground.""
+Suggested fixes: Keep only necessary markers. Simplify heavy punctuation.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999989018,爷爷的自来得手枪射出的最后几粒子弹飞行了三十几步远就掉在了地上。,The last couple of bullets from Granddad's pistol had traveled only thirty paces or so before thudding to the ground.,0.7634022235870361,0.7642315626144409,0.0008293390274047852
+"Granddad and Father stopped in their tracks and turned to see a dozen pairs of green eyes, like will-o'-the-wisps, and several indigo shadows tumbling on the ground.","too many cohesive markers, overly dense",Keep only necessary markers. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Granddad and Father stopped in their tracks and turned to see a dozen pairs of green eyes, like will-o'-the-wisps, and several indigo shadows tumbling on the ground.""
+Suggested fixes: Keep only necessary markers. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,爷爷和父亲立即转身回头，看到十几对鬼火一样闪烁的绿眼睛和一团团遍地翻滚的钢蓝色的影子。,"Granddad and Father stopped in their tracks and turned to see a dozen pairs of glowing eyes, like will-o'-the-wisps, and several indigo shadows tumbling on the ground.",0.6254661679267883,0.6485546827316284,0.023088514804840088
+"I felt like a wedge for splitting wood, lying between her widely opened legs.","too long, too many function words",Split long sentences once. Trim filler function words.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""I felt like a wedge for splitting wood, lying between her widely opened legs.""
+Suggested fixes: Split long sentences once. Trim filler function words.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.900862003,我就像一根待解的木料，躺在她分开的双腿中间。,"I felt like a wedge for splitting wood, lying between her parted legs.",0.698702871799469,0.7061717510223389,0.007468879222869873
+So she started to undo her bra.,"too much nominalization, too long",Turn nouns back into verbs. Split long sentences once.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""So she started to undo her bra.""
+Suggested fixes: Turn nouns back into verbs. Split long sentences once.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,就去解乳罩。,She began to unfasten her bra.,0.7989040613174438,0.7769169807434082,-0.021987080574035645
+"After a piercing, tearing sound, a hole appeared in the side of the stern of Judgment Day, made by a large metallic piece punching through the hull.","low lexical variety, too long",Vary wording slightly. Split long sentences once.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""After a piercing, tearing sound, a hole appeared in the side of the stern of Judgment Day, made by a large metallic piece punching through the hull.""
+Suggested fixes: Vary wording slightly. Split long sentences once.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999608,在一声刺耳的破裂声后，“审判日”号的船尾一侧出现了一个破洞，这洞是被一个巨大的金属构件撞出的。,"After a sharp, ringing sound, a hole materialized in the side of the stern of Judgment Day, created by a large metallic object punching through the hull.",0.7922128438949585,0.786426305770874,-0.005786538124084473
+"Three decades later, my older brother and I went into the sorghum field and engaged some crafty sparrows in a heated battle.","too passive, too many subordinate clauses",Prefer active if natural. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Three decades later, my older brother and I went into the sorghum field and engaged some crafty sparrows in a heated battle.""
+Suggested fixes: Prefer active if natural. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999993,三十多年后，我跟着哥哥在杂种高粱试验田里，与狡猾的麻雀展开过激烈坚韧的斗争。,"My brother and I ventured into the sorghum field thirty years later, and we engaged in a spirited battle with some cunning sparrows.",0.7579159736633301,0.7753950357437134,0.0174790620803833
+"We camped under a huge green tree, picking up two pieces of cow dung to start a fire, and spread a plastic sheet on the ground.","too long, too many pronouns",Split long sentences once. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""We camped under a huge green tree, picking up two pieces of cow dung to start a fire, and spread a plastic sheet on the ground.""
+Suggested fixes: Split long sentences once. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999952,我们在一棵大青树下露营，拣了两块干牛粪生了一堆火，在地上铺了一块塑料布。,"We pitched our tent beneath a towering green tree, collecting two dung pellets to kindle a fire, and spreading a plastic sheet on the ground.",0.8180384635925293,0.8050986528396606,-0.012939810752868652
+I said that wasn't going to work.,"deeply nested syntax, too much nominalization",Flatten nested clauses. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""I said that wasn't going to work.""
+Suggested fixes: Flatten nested clauses. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999992,我说那不行。,"I said it wouldn't work, and I was right.",0.8434094190597534,0.7816935181617737,-0.061715900897979736
+"The universe would flicker like a fluorescent tube that's about to burn out!""","too many subordinate clauses, too many pronouns",Limit excessive subordination. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The universe would flicker like a fluorescent tube that's about to burn out!""""
+Suggested fixes: Limit excessive subordination. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999998948,这意味着整个宇宙像一个坏了的日光灯管那样闪烁！”,The universe might flicker like a fluorescent tube on the brink of burning out!,0.8103934526443481,0.7857352495193481,-0.024658203125
+"She hobbled off on her stick, leaving Crimson standing there in a muse, her mission to fetch the tracing-brush momentarily forgotten.","overly dense, too long",Loosen dense noun phrases. Split long sentences once.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""She hobbled off on her stick, leaving Crimson standing there in a muse, her mission to fetch the tracing-brush momentarily forgotten.""
+Suggested fixes: Loosen dense noun phrases. Split long sentences once.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.997165,说着拄着拐一径去了。 小红听说，便站着出神，且不去取笔。,"She hobbled off on her stick, leaving Crimson standing there in a daze, her mission to fetch the tracing-brush momentarily forgotten.",0.5090804100036621,0.5581331253051758,0.04905271530151367
+Only when Grandma smiled up at him as she lay dead in the sorghum field did he realise the grievous punishment life had meted out to him.,"too many cohesive markers, too long",Keep only necessary markers. Split long sentences once.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Only when Grandma smiled up at him as she lay dead in the sorghum field did he realise the grievous punishment life had meted out to him.""
+Suggested fixes: Keep only necessary markers. Split long sentences once.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999805587,只有当奶奶在高粱地里用死亡的面容对着爷爷微笑时，他才领会到生活对自己的惩罚是多么严酷。,Only when Grandma smiled up at him as she lay dead in the sorghum field did he realize the grievous punishment life had dealt him.,0.8056827187538147,0.8036187887191772,-0.002063930034637451
+"He got up, grabbed a pitchfork, and tried to stab me, but somebody stopped him.","too passive, too many pronouns",Prefer active if natural. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""He got up, grabbed a pitchfork, and tried to stab me, but somebody stopped him.""
+Suggested fixes: Prefer active if natural. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.99999004,三闷儿爬起来，抢了一把三齿要砍我，别人劝开了。,"He rose, grasped a pitchfork, and attempted to jab me, but someone intervened.",0.7077033519744873,0.6545119881629944,-0.05319136381149292
+"Consequently, they often had leftover rice, heated up again with just a dish of mud snails to go with it.","too passive, overly dense",Prefer active if natural. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Consequently, they often had leftover rice, heated up again with just a dish of mud snails to go with it.""
+Suggested fixes: Prefer active if natural. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999994,她们常常是吃泡饭，黄泥螺下饭。,"Consequently, they often had leftover rice, heated up again with just a dish of mud snails to accompany it.",0.4591449797153473,0.4610680639743805,0.0019230842590332031
+"'Of all the girls in this room she has the sharpest tongue,' said Bao-yu.","too passive, deeply nested syntax",Prefer active if natural. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'Of all the girls in this room she has the sharpest tongue,' said Bao-yu.""
+Suggested fixes: Prefer active if natural. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,宝玉笑着道：“满屋里就只是他磨牙。”,"Bao-yu said, """"Of all the girls in this room, she has the sharpest tongue.",0.511236310005188,0.4787401258945465,-0.03249618411064148
+"The monk, catching sight of a lustrous, translucent stone—it was in fact the rejected building block which had now shrunk itself to the size of a fan-pendant and looked very attractive in its new shape—took it up on the palm of his hand and addressed it with a smile: 'Ha, I see you have magical properties!","too much nominalization, deeply nested syntax",Turn nouns back into verbs. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The monk, catching sight of a lustrous, translucent stone—it was in fact the rejected building block which had now shrunk itself to the size of a fan-pendant and looked very attractive in its new shape—took it up on the palm of his hand and addressed it with a smile: 'Ha, I see you have magical properties!""
+Suggested fixes: Turn nouns back into verbs. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,见着这块鲜莹明洁的石头，且又缩成扇坠一般，甚属可爱； 那僧托于掌上，笑道：“形体倒也是个灵物了！,"The monk, catching sight of a lustrous, translucent stone, smiled and addressed it, ""Ah, I see you have magical properties!""He took the stone in the palm of his hand, admiring its new shape, once a rejected building block, now shrunk to the size of a fan pendant.",0.5866965055465698,0.5876993536949158,0.0010028481483459473
+"If I went there, not only wouldn't it cure the pain in my lower back, but worse, I might get leprosy.","too many subordinate clauses, deeply nested syntax",Limit excessive subordination. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""If I went there, not only wouldn't it cure the pain in my lower back, but worse, I might get leprosy.""
+Suggested fixes: Limit excessive subordination. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999823646,我到那里不但治不好病，还可能染上麻风。,"If I went there, it wouldn't cure the pain in my lower back, and worse, I might contract leprosy.",0.8066180944442749,0.8183284997940063,0.011710405349731445
+"Whether my back really hurt or not, those holes alone would justify my visit to the doctor.","too many subordinate clauses, low lexical variety",Limit excessive subordination. Vary wording slightly.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Whether my back really hurt or not, those holes alone would justify my visit to the doctor.""
+Suggested fixes: Limit excessive subordination. Vary wording slightly.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.996600651,不管腰疼真不真，光那些窟窿也能成为看医生的理由。,"Whether my back really hurt or not, the holes alone would justify a visit to the doctor.",0.8133312463760376,0.8049108982086182,-0.008420348167419434
+"Granddad jumped up onto the mountain of stuff and, with a single kick, sent the old man sprawling onto the ground.","too passive, too many subordinate clauses",Prefer active if natural. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Granddad jumped up onto the mountain of stuff and, with a single kick, sent the old man sprawling onto the ground.""
+Suggested fixes: Prefer active if natural. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,爷爷纵身跳上货堆，飞起一脚，把那老头踢到货堆下。,"Granddad leapt onto the pile of items with a single kick, sending the old man tumbling to the ground.",0.7086732387542725,0.776482105255127,0.06780886650085449
+"In 1957, after untold hardships, when he finally emerged from the burrow Mother had dug for him, his eyes had the same look as in his youth: lively, perplexed, capricious.","too long, too much nominalization",Split long sentences once. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""In 1957, after untold hardships, when he finally emerged from the burrow Mother had dug for him, his eyes had the same look as in his youth: lively, perplexed, capricious.""
+Suggested fixes: Split long sentences once. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.99408536,一九五七年，他历尽千难万苦，从母亲挖的地洞里跑出来时，双眼还像他少年时期一样，活泼、迷惘、瞬息万变。,"In 1957, after untold hardships, he emerged from the burrow his mother had dug for him, his eyes radiating the same lively, perplexed, and capricious look he had in his youth.",0.7848140001296997,0.7940071821212769,0.009193181991577148
+'Now I think you had better go.',"too much nominalization, deeply nested syntax",Turn nouns back into verbs. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'Now I think you had better go.'""
+Suggested fixes: Turn nouns back into verbs. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999976003,凤姐道：“这会子你先去罢。”,Now it's time for you to go.,0.6686304807662964,0.6652346253395081,-0.00339585542678833
+"He longed for a time back when, like the sprinkling of stars in the night sky, only the elite prospered—for a European-style house on a smooth cobblestone road, and the spiraling sounds of the phonograph twisting their way up through an otherwise perfect silence.","too long, too many pronouns",Split long sentences once. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""He longed for a time back when, like the sprinkling of stars in the night sky, only the elite prospered—for a European-style house on a smooth cobblestone road, and the spiraling sounds of the phonograph twisting their way up through an otherwise perfect silence.""
+Suggested fixes: Split long sentences once. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999671,要的是那刚开始的少数人的繁华，黑漆漆的夜空里，那一小丛灿烂，平整的蛋硌路上，一座欧式洋房，还有那万籁俱寂中的一点蜿蜒曲折的音响。,"He yearned for a bygone era when only the privileged thrived - for a charming European-style manor nestled on a smooth cobblestone road, and the hypnotic sounds of the phonograph twirling their way up through an otherwise serene silence.",0.5648064613342285,0.5375630855560303,-0.027243375778198242
+"She came to understand the significance of the word ""Camera"": it announced a kind of climax.","repetition, too many cohesive markers",Remove needless repetition. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""She came to understand the significance of the word ""Camera"": it announced a kind of climax.""
+Suggested fixes: Remove needless repetition. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.929504107,她看出这一声“开麦拉”的不同寻常的意义，几乎是接近顶点的。,"She grasped the pivotal nature of the term ""Camera"": it heralded a turning point.",0.586441159248352,0.5824715495109558,-0.00396960973739624
+"Trinket began to choke, thrashed out with his feet to extricate himself, and finally managed to wriggle on top of the boy and hold him down.","too passive, deeply nested syntax",Prefer active if natural. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Trinket began to choke, thrashed out with his feet to extricate himself, and finally managed to wriggle on top of the boy and hold him down.""
+Suggested fixes: Prefer active if natural. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,韦小宝呼吸不畅，拼命伸足力撑，翻了几下，终于翻到了上面，反压在那男孩身上。,"Trinket began to choke and thrashed out with his feet, trying to extricate himself from the boy. Finally, he managed to wriggle on top of the boy and hold him down.",0.51507568359375,0.4979695975780487,-0.017106086015701294
+Something hot squirmed under his pants at the belt line.,"too much nominalization, too many cohesive markers",Turn nouns back into verbs. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Something hot squirmed under his pants at the belt line.""
+Suggested fixes: Turn nouns back into verbs. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,一股热流在棉裤腰间蠕动着。,Something was moving beneath his pants at the belt line.,0.6086330413818359,0.5817716121673584,-0.02686142921447754
+"However, after making friends with Wang Qiyao, she became more thoughtful.","too passive, repetition",Prefer active if natural. Remove needless repetition.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""However, after making friends with Wang Qiyao, she became more thoughtful.""
+Suggested fixes: Prefer active if natural. Remove needless repetition.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,但和王琦瑶做朋友以后，她的心却变细了。,"After making friends with Wang Qiyao, she became more thoughtful.",0.7557879090309143,0.7480394244194031,-0.0077484846115112305
+"The heavy, dull rays of sunlight were pulverised by tiny ripples on its surface.","too much nominalization, overly dense",Turn nouns back into verbs. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The heavy, dull rays of sunlight were pulverised by tiny ripples on its surface.""
+Suggested fixes: Turn nouns back into verbs. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.890420847,沉重凝滞的阳光被河流上的细小波涌颠扑破碎。,The sunlight's dull rays were pulverized by tiny ripples on its surface.,0.7926320433616638,0.7572979927062988,-0.03533405065536499
+"Shi-yin heard all this conversation quite clearly, and curiosity impelled him to go forward and greet the two reverend gentlemen.","too passive, overly dense",Prefer active if natural. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Shi-yin heard all this conversation quite clearly, and curiosity impelled him to go forward and greet the two reverend gentlemen.""
+Suggested fixes: Prefer active if natural. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,却说甄士隐俱听得明白，遂不禁上前施礼，笑问道：“二位仙师请了。”,Shi-yin clearly heard the conversation and felt compelled to approach the two reverend gentlemen.,0.6261889934539795,0.547744631767273,-0.07844436168670654
+"If you traveled with a torch, it meant you wanted the whole world to know where you were; if you didn't, it would be like wearing a cape of invisibility—people who knew you were there could see you, and people who didn't couldn't.","too passive, too much nominalization",Prefer active if natural. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""If you traveled with a torch, it meant you wanted the whole world to know where you were; if you didn't, it would be like wearing a cape of invisibility—people who knew you were there could see you, and people who didn't couldn't.""
+Suggested fixes: Prefer active if natural. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,假如有人打着火把行路，那就是说，希望全世界的人都知道他在那里。 假如你不打火把，就如穿上了隐身衣，知道你在那里的人能看见，不知道的人不能看见。,"If you traveled with a torch, it signified your desire to share your location with the world; if you didn't, it could be like wearing a cloak of invisibility - people who knew you were there could see you, while those who didn't wouldn't be able to.",0.7935588955879211,0.7867262959480286,-0.006832599639892578
+"When they saw her coming, people stopped talking and turned to stare, but she acted as if they did not exist.","too passive, repetition",Prefer active if natural. Remove needless repetition.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""When they saw her coming, people stopped talking and turned to stare, but she acted as if they did not exist.""
+Suggested fixes: Prefer active if natural. Remove needless repetition.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999999,她在弄堂里走过，人们便都停了说话，将目光转向她。 她则昂然不理会，进出如入无人之境。,"When people saw her approaching, they stopped talking and turned to face her, but she behaved as if they were invisible.",0.6133246421813965,0.6442639827728271,0.030939340591430664
+"At the first National Conference on Science, Guo Moruo, president of the Chinese Academy of Sciences, declared that it was the season of rebirth and renewal for China's battered science establishment.","too passive, deeply nested syntax",Prefer active if natural. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""At the first National Conference on Science, Guo Moruo, president of the Chinese Academy of Sciences, declared that it was the season of rebirth and renewal for China's battered science establishment.""
+Suggested fixes: Prefer active if natural. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,在第一次全国科学大会上，郭沫若宣布科学的春天到来了。,"At the first National Conference on Science, President Guo Moruo of the Chinese Academy of Sciences declared it was the season of rebirth and renewal for China's battered scientific establishment.",0.6817313432693481,0.6883373260498047,0.006605982780456543
+"Then the thing to do is to go somewhere else, isn't it?'","words too long, repetition",Prefer simpler common words. Remove needless repetition.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Then the thing to do is to go somewhere else, isn't it?'""
+Suggested fixes: Prefer simpler common words. Remove needless repetition.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999979,还不快去呢！”,"It's then best to go somewhere else, right?",0.4280279278755188,0.4461333155632019,0.018105387687683105
+'Just sitting here talking is going to be rather dull.,"punctuation heavy, too many function words",Simplify heavy punctuation. Trim filler function words.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'Just sitting here talking is going to be rather dull.""
+Suggested fixes: Simplify heavy punctuation. Trim filler function words.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999995,怪没意思的。,Just sitting here talking is going to be dull.,0.590578556060791,0.6152304410934448,0.02465188503265381
+"Father and Uncle Arhat, rain capes over their shoulders, sat around the shaded lamp listening to the low gurgling of the river.","too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Father and Uncle Arhat, rain capes over their shoulders, sat around the shaded lamp listening to the low gurgling of the river.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999999,父亲和罗汉大爷披着蓑衣，坐在罩子灯旁，听着河水的低沉呜咽——非常低沉的呜咽。,"Father and Uncle Arhat, with rain capes draped over their shoulders, sat around the shaded lamp, listening to the low gurgle of the river.",0.7041195034980774,0.7503966093063354,0.04627710580825806
+I'm wounded!',"too many connectives, too many pronouns",Cut redundant connectives. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""I'm wounded!'""
+Suggested fixes: Cut redundant connectives. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.99999999,我挂彩啦，我挂彩啦。”,I'm wounded.,0.2911425232887268,0.2728714048862457,-0.01827111840248108
+"Shi-yin took the object from him and saw that it was a clear, beautiful jade on one side of which were carved the words 'Magic Jade'.","too passive, too many subordinate clauses",Prefer active if natural. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Shi-yin took the object from him and saw that it was a clear, beautiful jade on one side of which were carved the words 'Magic Jade'.""
+Suggested fixes: Prefer active if natural. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,士隐接了看时，原来是块鲜明美玉，上面字迹分明，镌着“通灵宝玉”四字。,"Shi-yin took the object from him and saw that it was a clear, beautiful jade on one side of which were carved the words ""Magic Jade.""",0.6851316094398499,0.6856862902641296,0.0005546808242797852
+"The clasp was in the front, but I reached around to her back.","too many subordinate clauses, too many connectives",Limit excessive subordination. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The clasp was in the front, but I reached around to her back.""
+Suggested fixes: Limit excessive subordination. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.997484109,扣在前面，我把手伸到后面去了。,"The clasp was in the front, but I reached around to her back.",0.6196616888046265,0.6196616888046265,0.0
+They didn't return my hunting gun either.,"too many connectives, deeply nested syntax",Cut redundant connectives. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""They didn't return my hunting gun either.""
+Suggested fixes: Cut redundant connectives. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999998466,还有我的猎枪，也不肯还我。,They didn't return my gun either.,0.7812578678131104,0.6942397356033325,-0.08701813220977783
+They returned his greeting and asked him what he wanted.,"too passive, overly dense",Prefer active if natural. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""They returned his greeting and asked him what he wanted.""
+Suggested fixes: Prefer active if natural. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.99999069,那僧道也忙答礼相问。,They greeted him and asked what he wanted.,0.45214739441871643,0.47891348600387573,0.026766091585159302
+'Excellent!' said the other.,"too long, too many pronouns",Split long sentences once. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'Excellent!' said the other.""
+Suggested fixes: Split long sentences once. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.99980914,那僧道：“最妙，最妙！”,Excellent! said the other.,0.5830676555633545,0.6182436943054199,0.03517603874206543
+"I saw only two people before my trip, one of whom was Chen Qingyang, who hadn't mentioned it; the other one was our team leader, who also hadn't said anything other than telling me to take a good rest at the thermal springs.","deeply nested syntax, too many cohesive markers",Flatten nested clauses. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""I saw only two people before my trip, one of whom was Chen Qingyang, who hadn't mentioned it; the other one was our team leader, who also hadn't said anything other than telling me to take a good rest at the thermal springs.""
+Suggested fixes: Flatten nested clauses. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,在我进山之前，总共就见到了两个人，一个是陈清扬，她没有告诉我这件事。 另一个是我们队长，他也没说起这件事，只叫我去温泉养病。,"I saw only two people before my trip, one of whom was Chen Qingyang, who hadn't mentioned it; the other was our team leader, who also hadn't said anything other than telling me to take a good rest at the thermal springs.",0.7795180082321167,0.7778978943824768,-0.0016201138496398926
+"For a long time Jia Rui listened intently, but no one came.","too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""For a long time Jia Rui listened intently, but no one came.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999213,贾瑞侧耳听着，半日不见人来。,"For a long time, Jia Rui listened intently, but no one came.",0.7850068807601929,0.7943747043609619,0.009367823600769043
+"While they interrogated her, I looked out the window—the sky was filled with clouds.","too many cohesive markers, deeply nested syntax",Keep only necessary markers. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""While they interrogated her, I looked out the window—the sky was filled with clouds.""
+Suggested fixes: Keep only necessary markers. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,问她时，我往窗外看。 天上有很多云。,"While they interrogated her, I gazed out the window - the sky was filled with clouds.",0.8445940613746643,0.8396650552749634,-0.004929006099700928
+"She apologized, suggesting that he go back to disco dancing rather than waste his time with her.","too passive, too many subordinate clauses",Prefer active if natural. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""She apologized, suggesting that he go back to disco dancing rather than waste his time with her.""
+Suggested fixes: Prefer active if natural. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999785,她抱歉道，他还是跳迪斯科去吧，别陪她磨洋工了。,"She actively apologized, suggesting he go back to disco dancing rather than waste his time with her.",0.7081030607223511,0.669662594795227,-0.03844046592712402
+"Father could still hear them, but a curtain of blue mist obscured the men themselves.","too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Father could still hear them, but a curtain of blue mist obscured the men themselves.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.998168457,父亲眼前挂着蓝白色的雾幔，挡住了他的视线，只闻队伍脚步声，不见队伍形和影。,"Father could still hear them, but a blue mist obscured the men themselves, active and present.",0.5953443646430969,0.5350517630577087,-0.060292601585388184
+"He was about to boast, but thought better of it.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""He was about to boast, but thought better of it.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.973535618,想要自称自赞一番，终于忍住。,"He was about to brag, but thought better of it.",0.5735427141189575,0.6069771647453308,0.03343445062637329
+"This was indeed a brand-new district that greeted everything with an open heart, quite unlike the downtown area, whose convoluted feelings are more difficult to grasp.","too passive, overly dense",Prefer active if natural. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""This was indeed a brand-new district that greeted everything with an open heart, quite unlike the downtown area, whose convoluted feelings are more difficult to grasp.""
+Suggested fixes: Prefer active if natural. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,这真是新区，是坦荡荡的胸襟，不像市区，怀着曲折衷肠，叫人猜不透。,"This brand-new district embraced everything with an open heart, vastly different from the downtown area, where complex emotions were harder to decipher.",0.6803767681121826,0.6485931277275085,-0.03178364038467407
+"In fact, from what she observed, damaged goods seemed to have soft hearts, loved to help others and, most of all, hated to disappoint people.","too passive, too long",Prefer active if natural. Split long sentences once.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""In fact, from what she observed, damaged goods seemed to have soft hearts, loved to help others and, most of all, hated to disappoint people.""
+Suggested fixes: Prefer active if natural. Split long sentences once.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999905,据她观察，破鞋都很善良，乐于助人，而且最不乐意让人失望。,"In fact, from what she observed, damaged goods appeared to have soft hearts, loving to help others and hating to disappoint people.",0.5986645817756653,0.5927677154541016,-0.005896866321563721
+"However many of their ace fighters the Mu Family may have got in the city, they're not going to take on the Palace Guard.","too many cohesive markers, deeply nested syntax",Keep only necessary markers. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""However many of their ace fighters the Mu Family may have got in the city, they're not going to take on the Palace Guard.""
+Suggested fixes: Keep only necessary markers. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999998,沐王府的高手再多，总敌不过大内侍卫。,"However many ace fighters the Mu Family may have in the city, they won't take on the Palace Guard.",0.6258516311645508,0.6729763746261597,0.04712474346160889
+"Words like this seemed to please her, although she never agreed with what I said out loud.","low lexical variety, too many pronouns",Vary wording slightly. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Words like this seemed to please her, although she never agreed with what I said out loud.""
+Suggested fixes: Vary wording slightly. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.997211322,这些话她好像很听得进去，但是从不附合。,"Words like these seemed to delight her, although she never explicitly expressed agreement with my statements.",0.6921955347061157,0.7151025533676147,0.022907018661499023
+"After a while, the security comrades came to talk to me, telling me about the big denouncement meeting they were going to hold.","too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""After a while, the security comrades came to talk to me, telling me about the big denouncement meeting they were going to hold.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,后来人保组的同志找我商量，说是要开个大的批斗会。,"After a while, the security guards came to speak with me, informing me about the upcoming denunciation meeting they were planning to hold.",0.6913660764694214,0.657099187374115,-0.034266889095306396
+"One day, the security platoon commander asked Ye to come to the gatehouse at the entrance to the base.","too passive, low lexical variety",Prefer active if natural. Vary wording slightly.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""One day, the security platoon commander asked Ye to come to the gatehouse at the entrance to the base.""
+Suggested fixes: Prefer active if natural. Vary wording slightly.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,这天，警卫排排长叫叶文洁到门岗去一趟。,The security platoon commander requested Ye to report to the gatehouse at the entrance to the base.,0.6792848706245422,0.6046090722084045,-0.0746757984161377
+"There are a lot of them around in the Capital right now, and though it's to assassinate the Little Traitor that they're here, now that we've killed one of their people and they've kidnapped Brother Xu, you can be sure they're keeping a close watch on anywhere in the city where there are Triads.","too long, too many function words",Split long sentences once. Trim filler function words.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""There are a lot of them around in the Capital right now, and though it's to assassinate the Little Traitor that they're here, now that we've killed one of their people and they've kidnapped Brother Xu, you can be sure they're keeping a close watch on anywhere in the city where there are Triads.""
+Suggested fixes: Split long sentences once. Trim filler function words.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,这次沐家来到京城的着实不少，虽说是为了杀小汉奸吴应熊，但咱们杀了他们的人，徐大哥又给他们拿了去，这会儿咱们天地会每一处落脚之地，一定能给他们钉得紧紧的。,"There are many of them in the Capital right now, and though it's to assassinate the Little Traitor that they're here, now that we've killed one of their people and they've kidnapped Brother Xu, you can be sure they're keeping a close watch on any location in the city where Triads are known to operate.""",0.49058374762535095,0.495937317609787,0.005353569984436035
+She noticed the glow emitting from the electric lamp and the rippling shadows of the lotus-shaped lampshade projecting onto the three walls of the set.,"too long, punctuation heavy",Split long sentences once. Simplify heavy punctuation.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""She noticed the glow emitting from the electric lamp and the rippling shadows of the lotus-shaped lampshade projecting onto the three walls of the set.""
+Suggested fixes: Split long sentences once. Simplify heavy punctuation.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.902954073,王琦瑶注意到那盏布景里的电灯，发出着真实的光芒，莲花状的灯罩，在三面墙上投下波纹的阴影。,She noticed the glow emitting from the electric lamp and the rippling shadows of the lotus-shaped lampshade projecting onto the three walls of the set.,0.7317990064620972,0.7317990064620972,0.0
+"Standing in front of the crowd, I didn't do self-criticism but called them names.","too passive, too many connectives",Prefer active if natural. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Standing in front of the crowd, I didn't do self-criticism but called them names.""
+Suggested fixes: Prefer active if natural. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999990369,我在前面也不检讨，只是骂。,"Standing before the crowd, I didn't engage in self-criticism but instead called them names.",0.7276720404624939,0.7703835964202881,0.04271155595779419
+"'You must find it very dull here on your own every day,' he said.","too many connectives, deeply nested syntax",Cut redundant connectives. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'You must find it very dull here on your own every day,' he said.""
+Suggested fixes: Cut redundant connectives. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.947219545,又道：“嫂子天天也闷的很。”,"He said, ""You must find it very dull here on your own every day.""",0.5358433127403259,0.55596923828125,0.020125925540924072
+There was another rumor in the air that she was having an affair with me and this time she wanted me to prove our innocence.,"too many connectives, too many subordinate clauses",Cut redundant connectives. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""There was another rumor in the air that she was having an affair with me and this time she wanted me to prove our innocence.""
+Suggested fixes: Cut redundant connectives. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.987000173,原来又有了另一种传闻，说她在和我搞破鞋。 她要我给出我们清白无辜的证明。,"There was another rumor floating around that she was having an affair with me, and this time she wanted me to prove our innocence.",0.7421433925628662,0.7606412172317505,0.018497824668884277
+I could have defended myself by saying I didn't have a love affair.,"too much nominalization, too many cohesive markers",Turn nouns back into verbs. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""I could have defended myself by saying I didn't have a love affair.""
+Suggested fixes: Turn nouns back into verbs. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999987,我可以辩解说，我没搞破鞋。,I could have defended myself by saying I didn't have an affair.,0.5358780026435852,0.6700330972671509,0.13415509462356567
+"With Mrs. Wang gone, the mood that evening was a bit dull.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""With Mrs. Wang gone, the mood that evening was a bit dull.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999196,这天晚上，兴许少了一个人的缘故，显出了沉闷。,"With Mrs. Wang's absence, the mood that evening was a bit duller.",0.6676443815231323,0.6873526573181152,0.01970827579498291
+"A current of wind slipped down the mountain without a sound, without a breath, and a sadness in the air filled every space between the sky and the earth.","too passive, punctuation heavy",Prefer active if natural. Simplify heavy punctuation.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""A current of wind slipped down the mountain without a sound, without a breath, and a sadness in the air filled every space between the sky and the earth.""
+Suggested fixes: Prefer active if natural. Simplify heavy punctuation.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.99999811,山上有一股风，无声无息地吹下去。 天地间充满了悲惨的气氛。,"A current of wind descended the mountain without a sound, without a breath, and a sense of sadness filled every space between the sky and the earth.",0.7553734183311462,0.7746796607971191,0.0193062424659729
+"'Little bride, if you let Shan Bianlang touch you, your skin will rot away!'","too passive, overly dense",Prefer active if natural. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'Little bride, if you let Shan Bianlang touch you, your skin will rot away!'""
+Suggested fixes: Prefer active if natural. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,“小娘子，你可不能让单扁郎沾身啊，沾了身，你也烂啦！”,"Little bride, if you let Shan Bianlang touch you, your skin might rot away!",0.6720174551010132,0.6637080311775208,-0.008309423923492432
+Doves cooed in the fields.,"too long, too much nominalization",Split long sentences once. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Doves cooed in the fields.""
+Suggested fixes: Split long sentences once. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.951562063,高粱地里传来鸽子咕咕咕咕的叫声。,"Doves cooed in the fields, their soft chirping filling the air.",0.7492389678955078,0.7358818054199219,-0.013357162475585938
+Chen Qingyang and I committed the crime one more time in the hotel.,"too passive, too many subordinate clauses",Prefer active if natural. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Chen Qingyang and I committed the crime one more time in the hotel.""
+Suggested fixes: Prefer active if natural. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,我和陈清扬在饭店里又做了一回案。,Chen Qingyang and I committed the crime again in the hotel.,0.7870234251022339,0.7872620224952698,0.00023859739303588867
+"Then, when Patience shortly afterwards addressed Zhou Rui's wife as 'Mrs Zhou', she knew that this was no mistress but a very high-class maid.","too passive, punctuation heavy",Prefer active if natural. Simplify heavy punctuation.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Then, when Patience shortly afterwards addressed Zhou Rui's wife as 'Mrs Zhou', she knew that this was no mistress but a very high-class maid.""
+Suggested fixes: Prefer active if natural. Simplify heavy punctuation.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,又见平儿赶着周瑞家的叫他“周大娘”，方知不过是个有体面的丫头。,"Then, when Patience addressed Zhou Rui's wife as ""Mrs. Zhou,"" she knew this was no mistress but a very high-class maid.",0.5907177925109863,0.5860487222671509,-0.004669070243835449
+"Father had taken this path so often that later on, as he suffered in the Japanese cinder pit, its image often flashed before his eyes.","overly dense, too much nominalization",Loosen dense noun phrases. Turn nouns back into verbs.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Father had taken this path so often that later on, as he suffered in the Japanese cinder pit, its image often flashed before his eyes.""
+Suggested fixes: Loosen dense noun phrases. Turn nouns back into verbs.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.782545994,父亲常走这条路，后来他在日本炭窑中苦熬岁月时，眼前常常闪过这条路。,Father's frequent footsteps along this path had a tendency to flash before his eyes as he endured the harsh conditions of the Japanese internment camp.,0.7689692974090576,0.6977097988128662,-0.0712594985961914
+They told me that the military deputy had been transferred someplace else and nobody remembered our affair anymore.,"deeply nested syntax, too many subordinate clauses",Flatten nested clauses. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""They told me that the military deputy had been transferred someplace else and nobody remembered our affair anymore.""
+Suggested fixes: Flatten nested clauses. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999192708,他们说，军代表调走了，没人记着我们的事。,They told me the military deputy had been transferred elsewhere and nobody remembered our affair.,0.8002581596374512,0.8036311268806458,0.00337296724319458
+"By the time Wu Peizhen got home, her family was already at the dinner table and she had to fib about where she had been.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""By the time Wu Peizhen got home, her family was already at the dinner table and she had to fib about where she had been.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,她回到家里，已经开晚饭了，她还得编个谎搪塞她父母，也是煞费了苦心。,"By the time Wu Peizhen arrived home, her family was already seated at the dinner table, and she had to fabricate where she had been.",0.5694795846939087,0.551120400428772,-0.01835918426513672
+"When she was in the public security office, they showed her all kinds of confessions, just to let her know what she couldn't write in her confession.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""When she was in the public security office, they showed her all kinds of confessions, just to let her know what she couldn't write in her confession.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,在人保组里，人家把各种交待材料拿给她看，就是想让她明白，谁也不这么写交待。,"When she was in the public security office, they showed her various confessions to illustrate what she couldn't write in her own confession.",0.5996289253234863,0.604975163936615,0.005346238613128662
+Trinket nodded.,"deeply nested syntax, too many connectives",Flatten nested clauses. Cut redundant connectives.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Trinket nodded.""
+Suggested fixes: Flatten nested clauses. Cut redundant connectives.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999997,韦小宝点点头。,Trinket nodded decisively.,0.35150036215782166,0.3544483482837677,0.002947986125946045
+"The Red Guards did indeed have him carry a burden, but it wasn't a cross.","too many connectives, too many function words",Cut redundant connectives. Trim filler function words.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The Red Guards did indeed have him carry a burden, but it wasn't a cross.""
+Suggested fixes: Cut redundant connectives. Trim filler function words.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.998116562,红卫兵们让他负担的东西确实很重，但不是十字架。,"The Red Guards had him bear a burden, but it wasn't a cross.",0.7914433479309082,0.7698332071304321,-0.021610140800476074
+"Today, everything looks worn out, exposing bit by bit what lies underneath.","too passive, overly dense",Prefer active if natural. Loosen dense noun phrases.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Today, everything looks worn out, exposing bit by bit what lies underneath.""
+Suggested fixes: Prefer active if natural. Loosen dense noun phrases.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999862,如今，什么都好像旧了似的，一点一点露出了真迹。,"Today, everything appears worn and frayed, revealing bit by bit what lies beneath.",0.7916409969329834,0.7919543385505676,0.0003133416175842285
+"Grandma stood beside the road listening to the dull cacophony of fists and feet on flesh; she glanced at Yu Zhan'ao, then looked up at the lightning-streaked sky, the radiant, golden, noble smile still frozen on her face.","too long, too many pronouns",Split long sentences once. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Grandma stood beside the road listening to the dull cacophony of fists and feet on flesh; she glanced at Yu Zhan'ao, then looked up at the lightning-streaked sky, the radiant, golden, noble smile still frozen on her face.""
+Suggested fixes: Split long sentences once. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,奶奶站在路边，听着七零八落的打击肉体的沉闷声响，对着余占鳌顿眸一瞥，然后仰面看着天边的闪电，脸上凝固着的，仍然是那种粲然的、黄金一般高贵辉煌的笑容。,"Grandma stood beside the road, listening to the muffled sounds of fists and feet on flesh. She glanced at Yu Zhan'ao, then looked up at the lightning-streaked sky, her radiant, golden, noble smile still frozen on her face.",0.6854684352874756,0.6972438097000122,0.011775374412536621
+"Luo Xiaosi came back to the fourteenth team and found my stuff gone, so he went to ask the team leader whether he had seen me.","too passive, words too long",Prefer active if natural. Prefer simpler common words.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Luo Xiaosi came back to the fourteenth team and found my stuff gone, so he went to ask the team leader whether he had seen me.""
+Suggested fixes: Prefer active if natural. Prefer simpler common words.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,罗小四等人回到队里，发现我的东西都不见了，就去问队长可见过王二。,"Luo Xiaosi returned to the fourteenth team and found my belongings missing, so he went to inquire with the team leader whether he had seen me.",0.5940796136856079,0.6142274737358093,0.020147860050201416
+"To have won such fame, and so early in life too, is an almost unparalleled achievement.'","too many connectives, deeply nested syntax",Cut redundant connectives. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""To have won such fame, and so early in life too, is an almost unparalleled achievement.'""
+Suggested fixes: Cut redundant connectives. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999995458,成名如此之早，当真古今罕有。”,To have achieved such fame at such an early age is an almost unprecedented feat.,0.7464504241943359,0.821765661239624,0.07531523704528809
+Cosmic microwave background radiation very precisely matched the thermal black body spectrum at a temperature of 2.7255 K and was highly isotropic—meaning nearly uniform in every direction—with only tiny temperature fluctuations at the parts per million range.,"too passive, deeply nested syntax",Prefer active if natural. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Cosmic microwave background radiation very precisely matched the thermal black body spectrum at a temperature of 2.7255 K and was highly isotropic—meaning nearly uniform in every direction—with only tiny temperature fluctuations at the parts per million range.""
+Suggested fixes: Prefer active if natural. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,宇宙整体的微波背景辐射频谱非常精确地符合温度为2.726K的黑体辐射谱，具有高度各向同性，但在不同局部也存在大约百万分之五涨落的幅度。,"Cosmic microwave background radiation precisely matched a thermal black body spectrum at a temperature of 2.7255 K, with highly isotropic distribution—nearly uniform in every direction—showcasing minute temperature fluctuations at the parts per million level.",0.7336317300796509,0.7381569743156433,0.004525244235992432
+"By heading east-southeast, they would soon reach the Jiao-Ping highway, which cut through the swampy lowland from north to south and linked the two counties of Jiao and Pingdu.","too passive, too many subordinate clauses",Prefer active if natural. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""By heading east-southeast, they would soon reach the Jiao-Ping highway, which cut through the swampy lowland from north to south and linked the two counties of Jiao and Pingdu.""
+Suggested fixes: Prefer active if natural. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,他知道队伍一直往东南走，很快就要走到那条南北贯通，把偌大个低洼平原分成两半，把胶县平度县两座县城连在一起的胶平公路。,"Heading east-southeast, they would soon reach the Jiao-Ping highway, which cuts through the swampy lowland from north to south, linking the two counties of Jiao and Pingdu.",0.7098327875137329,0.7203304767608643,0.010497689247131348
+"This is how the inscription began: Long, long ago the world was tilted downwards towards the south-east; and in that lower-lying south-easterly part of the earth there is a city called Soochow; and in Soochow the district around the Chang-men Gate is reckoned one of the two or three wealthiest and most fashionable quarters in the world of men.","too passive, deeply nested syntax",Prefer active if natural. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""This is how the inscription began: Long, long ago the world was tilted downwards towards the south-east; and in that lower-lying south-easterly part of the earth there is a city called Soochow; and in Soochow the district around the Chang-men Gate is reckoned one of the two or three wealthiest and most fashionable quarters in the world of men.""
+Suggested fixes: Prefer active if natural. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,按那石上书云：当日地陷东南，这东南有个姑苏城，城中阊门，最是红尘中一二等富贵风流之地。,"This is how the inscription began: Long, long ago, the world tilted downwards towards the south-east, and in that lower-lying south-easterly part of the earth, there was a city called Soochow. In Soochow, the district around the Chang-men Gate was reckoned one of the two or three wealthiest and most fashionable quarters in the world of men.""",0.5351693034172058,0.5453097820281982,0.010140478610992432
+"Northeast Gaomi Township was aswarm with bandits who operated in the sorghum fields like fish in water, forming gangs to rob, pillage, and kidnap, yet balancing their evil deeds with charitable ones.","too passive, too many pronouns",Prefer active if natural. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Northeast Gaomi Township was aswarm with bandits who operated in the sorghum fields like fish in water, forming gangs to rob, pillage, and kidnap, yet balancing their evil deeds with charitable ones.""
+Suggested fixes: Prefer active if natural. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,高密东北乡土匪如毛，他们在高粱地里鱼儿般出没无常，结帮拉伙，拉骡绑票，坏事干尽，好事做绝。,"Northeast Gaomi Township was alive with bandits, who moved like fish in water, forming gangs to rob, pillage, and kidnap, yet balancing their evil deeds with acts of charity.",0.6570843458175659,0.677297830581665,0.02021348476409912
+So she got to her feet and took off her sweater—she had on a flowery shirt underneath.,"too many cohesive markers, punctuation heavy",Keep only necessary markers. Simplify heavy punctuation.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""So she got to her feet and took off her sweater—she had on a flowery shirt underneath.""
+Suggested fixes: Keep only necessary markers. Simplify heavy punctuation.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.976295895,她就站起来，脱了外衣，里面穿着大花的衬衫。,She stood up and removed her sweater - she was wearing a floral shirt underneath.,0.8097937107086182,0.8309005498886108,0.021106839179992676
+Why can't you just leave me here to die in peace?,"low lexical variety, too many pronouns",Vary wording slightly. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Why can't you just leave me here to die in peace?""
+Suggested fixes: Vary wording slightly. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999979,死活凭我去罢了!,Why can't you just leave me here to rest in peace?,0.5763054490089417,0.5887902975082397,0.012484848499298096
+Oriole cheated me and Bao-yu turned me out.',"low lexical variety, deeply nested syntax",Vary wording slightly. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Oriole cheated me and Bao-yu turned me out.'""
+Suggested fixes: Vary wording slightly. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,莺儿欺负我，赖我的钱； 宝玉哥哥撵了我来了。”,Oriole cheated me and Bao-yu turned me out.,0.48154160380363464,0.4839839041233063,0.002442300319671631
+"After a while my waist looked like it had been peppered by a shotgun, and the scars didn't fade for a long time.","too passive, words too long",Prefer active if natural. Prefer simpler common words.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""After a while my waist looked like it had been peppered by a shotgun, and the scars didn't fade for a long time.""
+Suggested fixes: Prefer active if natural. Prefer simpler common words.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999945,后来我的腰就像中了散弹枪，伤痕久久不褪。,"After a while, my waist looked like it had been pummeled by a shotgun, and the scars didn't fade for a long time.",0.7851828932762146,0.8259812593460083,0.0407983660697937
+Her feelings for Wang Qiyao were a bit like the puppy love that a teenage boy feels for a girl for whom he is willing to go to the edge of the earth.,"too many connectives, repetition",Cut redundant connectives. Remove needless repetition.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Her feelings for Wang Qiyao were a bit like the puppy love that a teenage boy feels for a girl for whom he is willing to go to the edge of the earth.""
+Suggested fixes: Cut redundant connectives. Remove needless repetition.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,她对王琦瑶的感情，有点像一个少年对一个少女，那种没有欲念的爱情，为她做什么都肯的。,"Her feelings for Wang Qiyao were similar to the intense, all-consuming crush a teenage boy experiences for a girl he is willing to go to great lengths for.",0.6753371953964233,0.778200626373291,0.10286343097686768
+Zhou Rui's wife went off again to fetch her charges.,"too long, deeply nested syntax",Split long sentences once. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""Zhou Rui's wife went off again to fetch her charges.""
+Suggested fixes: Split long sentences once. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,周瑞家的才出去领了他们进来。,Zhou Rui's wife went off again to collect her children.,0.4229746460914612,0.5253629684448242,0.10238832235336304
+"As the stylist gave her hair a last-minute adjustment with a hand blower, the expression on Wang Qiyao's face, turning slightly to avoid the hot air with just a soupçon of the spoiled child, belonged to yesteryear.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""As the stylist gave her hair a last-minute adjustment with a hand blower, the expression on Wang Qiyao's face, turning slightly to avoid the hot air with just a soupçon of the spoiled child, belonged to yesteryear.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,理发师正整理她的鬓发，手指触在脸颊，是最悉心的呵护。 她微微侧过脸，躲着吹风机的热风，这略带娇憨的姿态也是昨天的。,"As the stylist fine-tuned Wang Qiyao's hairdo with a last-minute touch, the expression on her face, turning slightly to avoid the hot air with a hint of the spoiled child, was reminiscent of days past.",0.5571057200431824,0.6614987254142761,0.10439300537109375
+"'King Yu of the Xia dynasty, the first dynasty that ever was, collected metal from all the nine provinces of the Empire and used it to cast nine great cauldrons with.","too long, deeply nested syntax",Split long sentences once. Flatten nested clauses.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'King Yu of the Xia dynasty, the first dynasty that ever was, collected metal from all the nine provinces of the Empire and used it to cast nine great cauldrons with.""
+Suggested fixes: Split long sentences once. Flatten nested clauses.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,夏禹王收九州之金，铸了九大鼎。,"King Yu of the Xia dynasty, the first dynasty to have existed, collected metal from all nine provinces of the Empire and used it to cast nine great cauldrons.",0.656981348991394,0.7434003949165344,0.08641904592514038
+"As he rose to his feet, he stole a closer glance at his opponent: there was something at once impressive and attractive about the boy's features, a clearness of brow, a noble look in the eyes, an expression in the face, that drew Trinket towards him.","too long, too many subordinate clauses",Split long sentences once. Limit excessive subordination.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""As he rose to his feet, he stole a closer glance at his opponent: there was something at once impressive and attractive about the boy's features, a clearness of brow, a noble look in the eyes, an expression in the face, that drew Trinket towards him.""
+Suggested fixes: Split long sentences once. Limit excessive subordination.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.997861978,说着也站了起来，见那男孩眉清目秀，神情轩昂，对他颇有好感。,"As he rose to his feet, he took a closer glance at his opponent, his eyes drawn to the boy's impressive features - a clear brow, a noble look in the eyes, and an expression on his face that was both striking and appealing.""",0.5481873154640198,0.735689640045166,0.18750232458114624
+The military deputy came to our team to do some grassroots investigation and then stayed.,"too many connectives, words too long",Cut redundant connectives. Prefer simpler common words.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""The military deputy came to our team to do some grassroots investigation and then stayed.""
+Suggested fixes: Cut redundant connectives. Prefer simpler common words.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999996,军代表到我们队来蹲点，蹲下来就不走了。,The military deputy visited our team to conduct grassroots investigations and remained for a while.,0.6998971700668335,0.7138384580612183,0.013941287994384766
+'How is it that so fine a painting lacks a signature?' said Huang.,"too passive, repetition",Prefer active if natural. Remove needless repetition.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'How is it that so fine a painting lacks a signature?' said Huang.""
+Suggested fixes: Prefer active if natural. Remove needless repetition.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",1.0,黄宗羲道：“这等好画，如何却无题跋？”,"Huang said, ""How is it that such a beautiful painting lacks a signature?""",0.7067831754684448,0.7356435060501099,0.02886033058166504
+"'That's it, son, that's the way to talk!'","too passive, too many pronouns",Prefer active if natural. Reduce pronoun overuse.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""'That's it, son, that's the way to talk!'""
+Suggested fixes: Prefer active if natural. Reduce pronoun overuse.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999986387,“说得是！ 儿子，说得好！”,"That's right, son, you're on the right track!""""",0.47339215874671936,0.5705001950263977,0.09710803627967834
+"There everything is wide open; even the knowing pigeons are bedded down for the evening, leaving the sky empty of their flight.","too passive, too many cohesive markers",Prefer active if natural. Keep only necessary markers.,"[INST] You are an expert English editor.
+The following sentence shows signs of translationese: ""There everything is wide open; even the knowing pigeons are bedded down for the evening, leaving the sky empty of their flight.""
+Suggested fixes: Prefer active if natural. Keep only necessary markers.
+Rules:
+- Preserve the original meaning and all factual details
+- Preserve names, numbers, colors, and body-part details
+- Preserve negation and modality (not/never/might/would/I think, etc.)
+- Keep the original style and register; maintain the original grammatical voice (active/passive), tense, aspect, and person unless ungrammatical
+- Make minimal necessary edits following the suggested fixes
+- Do NOT add or omit information
+- Output only the revised sentence on a single line, without quotes
+[/INST]",0.999999974,那里就开阔多了，也自由多了，连鸽子也栖了，让出了它们的领空。,"Everything is wide open; even the wise pigeons have bedded down for the evening, leaving the sky empty of their flight.",0.5182123780250549,0.5778290629386902,0.059616684913635254
