@@ -1,0 +1,12 @@
+=== Logistic Regression ===
+Dev: {'Accuracy': 0.9163, 'Precision': 0.8087, 'Recall': 0.6518, 'F1': 0.7218}
+Test: {'Accuracy': 0.9187, 'Precision': 0.8171, 'Recall': 0.6599, 'F1': 0.7301}
+
+=== Random Forest ===
+Dev: {'Accuracy': 0.8769, 'Precision': 0.9351, 'Recall': 0.2808, 'F1': 0.432}
+Test: {'Accuracy': 0.8764, 'Precision': 0.9417, 'Recall': 0.2752, 'F1': 0.4259}
+
+=== MLP ===
+Dev: {'Accuracy': 0.9176, 'Precision': 0.7819, 'Recall': 0.7013, 'F1': 0.7394}
+Test: {'Accuracy': 0.9202, 'Precision': 0.7861, 'Recall': 0.7159, 'F1': 0.7494}
+

@@ -1,0 +1,27 @@
+=== Linguistic Feature Descriptive Statistics ===
+
+       sent_length         clause_depth        passive_ratio        subordination_ratio        nominalization_ratio           ttr       lexical_density        repetition_frequency        avg_word_length        func_content_ratio        connective_count        cohesive_marker_ratio        pronoun_ratio        punctuation_density       
+              mean     std         mean    std          mean    std                mean    std                 mean    std   mean   std            mean    std                 mean    std            mean    std               mean    std             mean    std                  mean    std          mean    std                mean    std
+source                                                                                                                                                                                                                                                                                                                                          
+NEC         19.714  16.263        4.922  2.576           0.0  0.008               0.428  0.447                0.054  0.154  0.915  0.10           0.439  0.146                0.146  0.151           4.194  0.788              1.219  0.697            0.160  0.402                 0.042  0.054         0.165  0.122               0.178  0.120
+TEC         16.446  10.958        4.505  2.174           0.0  0.006               0.386  0.418                0.042  0.141  0.929  0.11           0.451  0.135                0.116  0.135           4.234  0.796              1.128  0.664            0.124  0.352                 0.032  0.051         0.146  0.116               0.165  0.122
+
+=== T-test Results (p-values) ===
+
+                       p-value
+sent_length              0.000
+clause_depth             0.000
+passive_ratio            0.043
+subordination_ratio      0.000
+nominalization_ratio     0.000
+ttr                      0.000
+lexical_density          0.000
+repetition_frequency     0.000
+avg_word_length          0.000
+func_content_ratio       0.000
+connective_count         0.000
+cohesive_marker_ratio    0.000
+pronoun_ratio            0.000
+punctuation_density      0.000
+
+Note: p < 0.05 indicates significant difference between TEC and NEC.
